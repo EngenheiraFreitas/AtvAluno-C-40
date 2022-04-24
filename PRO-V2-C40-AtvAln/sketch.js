@@ -15,8 +15,8 @@ function preload() {
   track = loadImage("assets/pista.png");
   fuelImage = loadImage("assets/fuel.png");
   powerCoinImage = loadImage("assets/goldCoin.png");
-  obstacles1Image = loadImage("assets/obstacle1.png");
-  obstacles2Image = loadImage("assets/obstacle2.png");
+  obstacle1Image = loadImage("assets/obstacle1.png");
+  obstacle2Image = loadImage("assets/obstacle2.png");
 }
 
 function setup() {
